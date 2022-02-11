@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 47706455
+    locked: 0
+  - name: Arena
+    uniqueID: 1369519095
+    locked: 0
+  - name: Player
+    uniqueID: 266749407
+    locked: 0
+  - name: Stick
+    uniqueID: 1184533717
+    locked: 0
